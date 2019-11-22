@@ -1,0 +1,5 @@
+
+在做NLP任务的时候，自己写各种logging实在是太麻烦，这里就有一个很成熟的解决方法，就是使用logging.
+下面的链接，是我见的最好的一个文档了。
+
+https://www.cnblogs.com/Nicholas0707/p/9021672.html#_label1_3
