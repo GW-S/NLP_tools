@@ -1,0 +1,15 @@
+在写代码的过程中，一定会遇到需要使用文件的拷贝，绝对路径的获得，文件的删除，文件夹的创建，文件的拷贝等一些操作
+
+在这个过程中，主要用到的是pthon的os模块。
+
+主要包括，增，删，插，改，复制等操作
+os.remove()
+os.mkdir()
+
+然后是用上了path的操作。
+os.path.abspath()
+os.path.isexists()
+
+最后是复制,一般调用一个shuil的包
+shuil.copy()
+shuil.rmtree()
